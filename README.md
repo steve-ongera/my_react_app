@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Simple Beginner React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React project designed to showcase basic functionality using React. The application displays a welcome message on the home page
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Displays a welcome message in the browser.
+Simple component structure.
+
+## Prerequisites
+Node.js (v12 or later)
+npm (Node Package Manager, installed with Node.js)
 
 ### `npm start`
 
